@@ -12,5 +12,7 @@ I'm Geethesh, I'm a tech enthusiast and a computer science engineer 👨‍💻 
 - 🔭 I’m currently working on Deep Learning projects
 - 🌱 I’m currently learning Modern physics
 - 💬 Ask me about: Tech, AI, Maths, Cars, Atheism and more philosophy
-- 😄 Pronouns: he/him
+- 😄 Pronouns: Geethesh, Geethu
 -  ⚡ Languages: Python3, Dart, C++
+
+</p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=geetheshtg&show_icons=true" alt="https://github.com/geetheshtg" /> </p>
