@@ -6,13 +6,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-tggeethesh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tggeethesh@gmail.com)](mailto:tggeethesh@gmail.com)
 
 ## Hi 👋, 
-I'm Geethesh, I'm a tech enthusiast and a computer science engineer 👨‍💻 who is passionate about AI and IoT technologies. I'm also very much interested in astrophysics. I can build 3D models, AR filters and do VFX. 
-🏄‍♂️. 
+I'm Geethesh, I'm a Software Engineer intern at Versa Networks. I'm passionate about the stuff that impact the lives of people. I'm always available to collaborate for projects. You can contact me through any of the above mentioned means. 
 
-- 🔭 I’m currently working on Deep Learning projects
-- 🌱 I’m currently learning Modern physics
-- 💬 Ask me about: Tech, AI, Maths, Cars, Atheism and more philosophy
-- 😄 Pronouns: Geethesh, Geethu
--  ⚡ Languages: Python3, Dart, C++
+- I’m currently working on Deep Learning projects that can detect and classify Neurological disorders
+- My hobbies include studying Modern Physics, Space Technology
+- I chit chat about: Tech, AI, Math, Cars, Atheism and more philosophy
 
 </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=geetheshtg&show_icons=true" alt="https://github.com/geetheshtg" /> </p>
